@@ -1,0 +1,45 @@
+ .fondbody{
+    background-image:url("image/m.gif");
+    background-attachment:fixed;
+    background-repeat:cover;
+    background-color:black;
+    background-position:center center;
+}
+
+footer{
+	background-color: #a71414;
+	width: 5000px;
+	height: 50px;
+	position: fixed;
+	bottom: 0px;
+}
+
+header{
+	background-color: #a71414;
+	width: 2000px;
+	height: 50px;
+
+}
+
+.chat{
+   text-align:left;
+   margin:0 auto;
+   
+   padding:10px;
+   background:#fff;
+   height:270px;
+   width:900px;
+   border:5px solid #a71414;
+   overflow-x: hidden;
+   overflow-wrap: break-word;
+}
+
+.titre{	position: absolute;
+	top: 600px;
+    left: 1288px;width: 142px;
+    height: 142px;
+	background: url("image/headtitre.jpg");}
+
+.cote{background-color: silver;
+	height: 95vh;
+}
